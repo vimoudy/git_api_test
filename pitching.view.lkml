@@ -24,6 +24,7 @@ view: pitching {
   dimension: cg {
     type: number
     sql: ${TABLE}.cg ;;
+    #test merge
   }
 
   dimension: er {
