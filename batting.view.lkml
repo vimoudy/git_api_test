@@ -14,6 +14,7 @@ view: batting {
   dimension: cs {
     type: number
     sql: ${TABLE}.cs ;;
+
   }
 
   dimension: double {
