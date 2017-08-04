@@ -14,7 +14,7 @@ view: batting {
   dimension: cs {
     type: number
     sql: ${TABLE}.cs ;;
-
+    #hello world
   }
 
   dimension: double {
